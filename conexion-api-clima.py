@@ -1,6 +1,6 @@
 import requests  
 
-"""tengo un problema que solucionar en mi pc con el " request, algo que quedó corrupto del pip""""
+"""tengo un problema que solucionar en mi pc con el " request"""
 ciudad = "new york "#cambiar segun gusto
 api_key = "e7f5bc03ec11295edfa831ccfe3b17aa"
 
