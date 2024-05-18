@@ -1,4 +1,4 @@
-import requests  
+import requests  #este es el codigo que no funca
 
 """tengo un problema que solucionar en mi pc con el " request por la chucha"""
 ciudad = "new york "#cambiar segun gusto
